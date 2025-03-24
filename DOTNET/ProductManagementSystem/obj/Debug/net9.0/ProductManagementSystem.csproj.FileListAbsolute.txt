@@ -1,0 +1,14 @@
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ProductManagementSystem\bin\Debug\net9.0\ProductManagementSystem.exe
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ProductManagementSystem\bin\Debug\net9.0\ProductManagementSystem.deps.json
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ProductManagementSystem\bin\Debug\net9.0\ProductManagementSystem.runtimeconfig.json
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ProductManagementSystem\bin\Debug\net9.0\ProductManagementSystem.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ProductManagementSystem\bin\Debug\net9.0\ProductManagementSystem.pdb
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ProductManagementSystem\obj\Debug\net9.0\ProductManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ProductManagementSystem\obj\Debug\net9.0\ProductManagementSystem.AssemblyInfoInputs.cache
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ProductManagementSystem\obj\Debug\net9.0\ProductManagementSystem.AssemblyInfo.cs
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ProductManagementSystem\obj\Debug\net9.0\ProductManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ProductManagementSystem\obj\Debug\net9.0\ProductManagementSystem.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ProductManagementSystem\obj\Debug\net9.0\refint\ProductManagementSystem.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ProductManagementSystem\obj\Debug\net9.0\ProductManagementSystem.pdb
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ProductManagementSystem\obj\Debug\net9.0\ProductManagementSystem.genruntimeconfig.cache
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ProductManagementSystem\obj\Debug\net9.0\ref\ProductManagementSystem.dll

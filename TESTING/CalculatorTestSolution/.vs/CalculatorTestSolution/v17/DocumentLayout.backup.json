@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\CalculatorTestSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5CA69-7CF9-49A6-9419-0342D28C185D}|CalculatorApplication\\CalculatorApplication.csproj|c:\\users\\manra\\onedrive\\desktop\\capgemini\\testing\\calculatortestsolution\\calculatorapplication\\service\\calculateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A5CA69-7CF9-49A6-9419-0342D28C185D}|CalculatorApplication\\CalculatorApplication.csproj|solutionrelative:calculatorapplication\\service\\calculateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5CA69-7CF9-49A6-9419-0342D28C185D}|CalculatorApplication\\CalculatorApplication.csproj|c:\\users\\manra\\onedrive\\desktop\\capgemini\\testing\\calculatortestsolution\\calculatorapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A5CA69-7CF9-49A6-9419-0342D28C185D}|CalculatorApplication\\CalculatorApplication.csproj|solutionrelative:calculatorapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculateService.cs",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\CalculatorTestSolution\\CalculatorApplication\\Service\\CalculateService.cs",
+              "RelativeDocumentMoniker": "CalculatorApplication\\Service\\CalculateService.cs",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\CalculatorTestSolution\\CalculatorApplication\\Service\\CalculateService.cs",
+              "RelativeToolTip": "CalculatorApplication\\Service\\CalculateService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:56:05.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\CalculatorTestSolution\\CalculatorApplication\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\CalculatorTestSolution\\CalculatorApplication\\Program.cs",
+              "RelativeToolTip": "CalculatorApplication\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T19:52:51.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

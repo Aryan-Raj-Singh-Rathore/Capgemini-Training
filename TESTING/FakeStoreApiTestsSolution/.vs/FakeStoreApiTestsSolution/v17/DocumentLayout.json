@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|c:\\users\\manra\\onedrive\\desktop\\capgemini\\testing\\fakestoreapitestssolution\\fakestoreapitests\\productputtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|solutionrelative:fakestoreapitests\\productputtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|c:\\users\\manra\\onedrive\\desktop\\capgemini\\testing\\fakestoreapitestssolution\\fakestoreapitests\\productposttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|solutionrelative:fakestoreapitests\\productposttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|c:\\users\\manra\\onedrive\\desktop\\capgemini\\testing\\fakestoreapitestssolution\\fakestoreapitests\\productgettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|solutionrelative:fakestoreapitests\\productgettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|c:\\users\\manra\\onedrive\\desktop\\capgemini\\testing\\fakestoreapitestssolution\\fakestoreapitests\\productdeletetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|solutionrelative:fakestoreapitests\\productdeletetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|c:\\users\\manra\\onedrive\\desktop\\capgemini\\testing\\fakestoreapitestssolution\\fakestoreapitests\\headertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|solutionrelative:fakestoreapitests\\headertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|c:\\users\\manra\\onedrive\\desktop\\capgemini\\testing\\fakestoreapitestssolution\\fakestoreapitests\\performancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|solutionrelative:fakestoreapitests\\performancetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|c:\\users\\manra\\onedrive\\desktop\\capgemini\\testing\\fakestoreapitestssolution\\fakestoreapitests\\productquerytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|solutionrelative:fakestoreapitests\\productquerytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|c:\\users\\manra\\onedrive\\desktop\\capgemini\\testing\\fakestoreapitestssolution\\fakestoreapitests\\baseapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|solutionrelative:fakestoreapitests\\baseapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|c:\\users\\manra\\onedrive\\desktop\\capgemini\\testing\\fakestoreapitestssolution\\fakestoreapitests\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|solutionrelative:fakestoreapitests\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|c:\\users\\manra\\onedrive\\desktop\\capgemini\\testing\\fakestoreapitestssolution\\fakestoreapitests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA3C094-F43A-4D9D-B59A-7ADACE243AC6}|FakeStoreApiTests\\FakeStoreApiTests.csproj|solutionrelative:fakestoreapitests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeaderTests.cs",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\HeaderTests.cs",
+              "RelativeDocumentMoniker": "FakeStoreApiTests\\HeaderTests.cs",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\HeaderTests.cs",
+              "RelativeToolTip": "FakeStoreApiTests\\HeaderTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAywBMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:56:17.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDeleteTests.cs",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\ProductDeleteTests.cs",
+              "RelativeDocumentMoniker": "FakeStoreApiTests\\ProductDeleteTests.cs",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\ProductDeleteTests.cs",
+              "RelativeToolTip": "FakeStoreApiTests\\ProductDeleteTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADgvykAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:53:45.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductGetTests.cs",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\ProductGetTests.cs",
+              "RelativeDocumentMoniker": "FakeStoreApiTests\\ProductGetTests.cs",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\ProductGetTests.cs",
+              "RelativeToolTip": "FakeStoreApiTests\\ProductGetTests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:47:36.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductPostTests.cs",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\ProductPostTests.cs",
+              "RelativeDocumentMoniker": "FakeStoreApiTests\\ProductPostTests.cs",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\ProductPostTests.cs",
+              "RelativeToolTip": "FakeStoreApiTests\\ProductPostTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwDMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:50:16.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductPutTests.cs",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\ProductPutTests.cs",
+              "RelativeDocumentMoniker": "FakeStoreApiTests\\ProductPutTests.cs",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\ProductPutTests.cs",
+              "RelativeToolTip": "FakeStoreApiTests\\ProductPutTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwBMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:52:16.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PerformanceTests.cs",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\PerformanceTests.cs",
+              "RelativeDocumentMoniker": "FakeStoreApiTests\\PerformanceTests.cs",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\PerformanceTests.cs",
+              "RelativeToolTip": "FakeStoreApiTests\\PerformanceTests.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwC4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:55:31.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductQueryTests.cs",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\ProductQueryTests.cs",
+              "RelativeDocumentMoniker": "FakeStoreApiTests\\ProductQueryTests.cs",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\ProductQueryTests.cs",
+              "RelativeToolTip": "FakeStoreApiTests\\ProductQueryTests.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwvz8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:54:37.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\BaseApiTests.cs",
+              "RelativeDocumentMoniker": "FakeStoreApiTests\\BaseApiTests.cs",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\BaseApiTests.cs",
+              "RelativeToolTip": "FakeStoreApiTests\\BaseApiTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:47:09.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\Product.cs",
+              "RelativeDocumentMoniker": "FakeStoreApiTests\\Product.cs",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\Product.cs",
+              "RelativeToolTip": "FakeStoreApiTests\\Product.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:45:31.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "FakeStoreApiTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\TESTING\\FakeStoreApiTestsSolution\\FakeStoreApiTests\\UnitTest1.cs",
+              "RelativeToolTip": "FakeStoreApiTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:44:47.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

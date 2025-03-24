@@ -1,0 +1,14 @@
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\E-CommerceSystem\E-CommerceSystem\bin\Debug\net8.0\E-CommerceSystem.exe
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\E-CommerceSystem\E-CommerceSystem\bin\Debug\net8.0\E-CommerceSystem.deps.json
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\E-CommerceSystem\E-CommerceSystem\bin\Debug\net8.0\E-CommerceSystem.runtimeconfig.json
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\E-CommerceSystem\E-CommerceSystem\bin\Debug\net8.0\E-CommerceSystem.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\E-CommerceSystem\E-CommerceSystem\bin\Debug\net8.0\E-CommerceSystem.pdb
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.AssemblyInfoInputs.cache
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.AssemblyInfo.cs
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.csproj.CoreCompileInputs.cache
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\refint\E-CommerceSystem.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.pdb
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\E-CommerceSystem.genruntimeconfig.cache
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\E-CommerceSystem\E-CommerceSystem\obj\Debug\net8.0\ref\E-CommerceSystem.dll

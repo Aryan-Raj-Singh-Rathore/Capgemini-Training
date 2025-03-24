@@ -1,0 +1,11 @@
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\ECommerceSolution\CustomerService\bin\Debug\net8.0\CustomerService.deps.json
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\ECommerceSolution\CustomerService\bin\Debug\net8.0\CustomerService.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\ECommerceSolution\CustomerService\bin\Debug\net8.0\CustomerService.pdb
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\ECommerceSolution\CustomerService\obj\Debug\net8.0\CustomerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\ECommerceSolution\CustomerService\obj\Debug\net8.0\CustomerService.AssemblyInfoInputs.cache
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\ECommerceSolution\CustomerService\obj\Debug\net8.0\CustomerService.AssemblyInfo.cs
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\ECommerceSolution\CustomerService\obj\Debug\net8.0\CustomerService.csproj.CoreCompileInputs.cache
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\ECommerceSolution\CustomerService\obj\Debug\net8.0\CustomerService.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\ECommerceSolution\CustomerService\obj\Debug\net8.0\refint\CustomerService.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\ECommerceSolution\CustomerService\obj\Debug\net8.0\CustomerService.pdb
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\ECommerceSolution\CustomerService\obj\Debug\net8.0\ref\CustomerService.dll

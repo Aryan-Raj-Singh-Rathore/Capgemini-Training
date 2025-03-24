@@ -1,0 +1,14 @@
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ShapeHeirarchy\ShapeHeirarchy\bin\Debug\net8.0\ShapeHeirarchy.exe
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ShapeHeirarchy\ShapeHeirarchy\bin\Debug\net8.0\ShapeHeirarchy.deps.json
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ShapeHeirarchy\ShapeHeirarchy\bin\Debug\net8.0\ShapeHeirarchy.runtimeconfig.json
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ShapeHeirarchy\ShapeHeirarchy\bin\Debug\net8.0\ShapeHeirarchy.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ShapeHeirarchy\ShapeHeirarchy\bin\Debug\net8.0\ShapeHeirarchy.pdb
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ShapeHeirarchy\ShapeHeirarchy\obj\Debug\net8.0\ShapeHeirarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ShapeHeirarchy\ShapeHeirarchy\obj\Debug\net8.0\ShapeHeirarchy.AssemblyInfoInputs.cache
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ShapeHeirarchy\ShapeHeirarchy\obj\Debug\net8.0\ShapeHeirarchy.AssemblyInfo.cs
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ShapeHeirarchy\ShapeHeirarchy\obj\Debug\net8.0\ShapeHeirarchy.csproj.CoreCompileInputs.cache
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ShapeHeirarchy\ShapeHeirarchy\obj\Debug\net8.0\ShapeHeirarchy.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ShapeHeirarchy\ShapeHeirarchy\obj\Debug\net8.0\refint\ShapeHeirarchy.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ShapeHeirarchy\ShapeHeirarchy\obj\Debug\net8.0\ShapeHeirarchy.pdb
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ShapeHeirarchy\ShapeHeirarchy\obj\Debug\net8.0\ShapeHeirarchy.genruntimeconfig.cache
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\ShapeHeirarchy\ShapeHeirarchy\obj\Debug\net8.0\ref\ShapeHeirarchy.dll

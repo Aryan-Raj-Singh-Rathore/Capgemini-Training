@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\DOTNET\\phonebookapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D460890C-E64C-443C-8F1F-7BF3A8AB7D1D}|phonebookapi\\phonebookapi.csproj|c:\\users\\manra\\onedrive\\desktop\\capgemini\\dotnet\\phonebookapi\\phonebookapi\\controllers\\phonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D460890C-E64C-443C-8F1F-7BF3A8AB7D1D}|phonebookapi\\phonebookapi.csproj|solutionrelative:phonebookapi\\controllers\\phonecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D460890C-E64C-443C-8F1F-7BF3A8AB7D1D}|phonebookapi\\phonebookapi.csproj|c:\\users\\manra\\onedrive\\desktop\\capgemini\\dotnet\\phonebookapi\\phonebookapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D460890C-E64C-443C-8F1F-7BF3A8AB7D1D}|phonebookapi\\phonebookapi.csproj|solutionrelative:phonebookapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\DOTNET\\phonebookapi\\phonebookapi\\Migrations\\20250312065124_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:phonebookapi\\Migrations\\20250312065124_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D460890C-E64C-443C-8F1F-7BF3A8AB7D1D}|phonebookapi\\phonebookapi.csproj|c:\\users\\manra\\onedrive\\desktop\\capgemini\\dotnet\\phonebookapi\\phonebookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D460890C-E64C-443C-8F1F-7BF3A8AB7D1D}|phonebookapi\\phonebookapi.csproj|solutionrelative:phonebookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D460890C-E64C-443C-8F1F-7BF3A8AB7D1D}|phonebookapi\\phonebookapi.csproj|c:\\users\\manra\\onedrive\\desktop\\capgemini\\dotnet\\phonebookapi\\phonebookapi\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D460890C-E64C-443C-8F1F-7BF3A8AB7D1D}|phonebookapi\\phonebookapi.csproj|solutionrelative:phonebookapi\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D460890C-E64C-443C-8F1F-7BF3A8AB7D1D}|phonebookapi\\phonebookapi.csproj|c:\\users\\manra\\onedrive\\desktop\\capgemini\\dotnet\\phonebookapi\\phonebookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D460890C-E64C-443C-8F1F-7BF3A8AB7D1D}|phonebookapi\\phonebookapi.csproj|solutionrelative:phonebookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250312065124_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\DOTNET\\phonebookapi\\phonebookapi\\Migrations\\20250312065124_InitialCreate.cs",
+              "RelativeDocumentMoniker": "phonebookapi\\Migrations\\20250312065124_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\DOTNET\\phonebookapi\\phonebookapi\\Migrations\\20250312065124_InitialCreate.cs",
+              "RelativeToolTip": "phonebookapi\\Migrations\\20250312065124_InitialCreate.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T06:51:25.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\DOTNET\\phonebookapi\\phonebookapi\\Program.cs",
+              "RelativeDocumentMoniker": "phonebookapi\\Program.cs",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\DOTNET\\phonebookapi\\phonebookapi\\Program.cs",
+              "RelativeToolTip": "phonebookapi\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:26:37.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhoneController.cs",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\DOTNET\\phonebookapi\\phonebookapi\\Controllers\\PhoneController.cs",
+              "RelativeDocumentMoniker": "phonebookapi\\Controllers\\PhoneController.cs",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\DOTNET\\phonebookapi\\phonebookapi\\Controllers\\PhoneController.cs",
+              "RelativeToolTip": "phonebookapi\\Controllers\\PhoneController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwDQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:14:02.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\DOTNET\\phonebookapi\\phonebookapi\\appsettings.json",
+              "RelativeDocumentMoniker": "phonebookapi\\appsettings.json",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\DOTNET\\phonebookapi\\phonebookapi\\appsettings.json",
+              "RelativeToolTip": "phonebookapi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T04:56:33.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\DOTNET\\phonebookapi\\phonebookapi\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "phonebookapi\\Data\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\DOTNET\\phonebookapi\\phonebookapi\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "phonebookapi\\Data\\ProductDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:51:30.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\DOTNET\\phonebookapi\\phonebookapi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "phonebookapi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\manra\\OneDrive\\Desktop\\Capgemini\\DOTNET\\phonebookapi\\phonebookapi\\Models\\Product.cs",
+              "RelativeToolTip": "phonebookapi\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:49:34.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

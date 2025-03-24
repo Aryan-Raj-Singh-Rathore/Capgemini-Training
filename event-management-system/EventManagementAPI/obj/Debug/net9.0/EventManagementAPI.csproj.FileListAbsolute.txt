@@ -1,0 +1,7 @@
+C:\Users\manra\OneDrive\Desktop\Capgemini\event-management-system\EventManagementAPI\obj\Debug\net9.0\EventManagementAPI.csproj.AssemblyReference.cache
+C:\Users\manra\OneDrive\Desktop\Capgemini\event-management-system\EventManagementAPI\obj\Debug\net9.0\EventManagementAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manra\OneDrive\Desktop\Capgemini\event-management-system\EventManagementAPI\obj\Debug\net9.0\EventManagementAPI.AssemblyInfoInputs.cache
+C:\Users\manra\OneDrive\Desktop\Capgemini\event-management-system\EventManagementAPI\obj\Debug\net9.0\EventManagementAPI.AssemblyInfo.cs
+C:\Users\manra\OneDrive\Desktop\Capgemini\event-management-system\EventManagementAPI\obj\Debug\net9.0\EventManagementAPI.csproj.CoreCompileInputs.cache
+C:\Users\manra\OneDrive\Desktop\Capgemini\event-management-system\EventManagementAPI\obj\Debug\net9.0\EventManagementAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\manra\OneDrive\Desktop\Capgemini\event-management-system\EventManagementAPI\obj\Debug\net9.0\EventManagementAPI.MvcApplicationPartsAssemblyInfo.cache

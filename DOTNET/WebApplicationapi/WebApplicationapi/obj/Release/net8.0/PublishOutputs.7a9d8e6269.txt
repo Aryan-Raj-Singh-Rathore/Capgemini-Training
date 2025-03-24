@@ -1,0 +1,11 @@
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\WebApplicationapi\WebApplicationapi\obj\Release\net8.0\PubTmp\Out\WebApplicationapi.exe
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\WebApplicationapi\WebApplicationapi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\WebApplicationapi\WebApplicationapi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\WebApplicationapi\WebApplicationapi\obj\Release\net8.0\PubTmp\Out\WebApplicationapi.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\WebApplicationapi\WebApplicationapi\obj\Release\net8.0\PubTmp\Out\WebApplicationapi.deps.json
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\WebApplicationapi\WebApplicationapi\obj\Release\net8.0\PubTmp\Out\WebApplicationapi.runtimeconfig.json
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\WebApplicationapi\WebApplicationapi\obj\Release\net8.0\PubTmp\Out\WebApplicationapi.pdb
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\WebApplicationapi\WebApplicationapi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\WebApplicationapi\WebApplicationapi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\WebApplicationapi\WebApplicationapi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\DOTNET\WebApplicationapi\WebApplicationapi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,14 @@
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\CalculatorTestSolution\CalculatorApplication\obj\Debug\net8.0\CalculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\CalculatorTestSolution\CalculatorApplication\obj\Debug\net8.0\CalculatorApplication.AssemblyInfoInputs.cache
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\CalculatorTestSolution\CalculatorApplication\obj\Debug\net8.0\CalculatorApplication.AssemblyInfo.cs
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\CalculatorTestSolution\CalculatorApplication\obj\Debug\net8.0\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\CalculatorTestSolution\CalculatorApplication\bin\Debug\net8.0\CalculatorApplication.exe
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\CalculatorTestSolution\CalculatorApplication\bin\Debug\net8.0\CalculatorApplication.deps.json
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\CalculatorTestSolution\CalculatorApplication\bin\Debug\net8.0\CalculatorApplication.runtimeconfig.json
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\CalculatorTestSolution\CalculatorApplication\bin\Debug\net8.0\CalculatorApplication.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\CalculatorTestSolution\CalculatorApplication\bin\Debug\net8.0\CalculatorApplication.pdb
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\CalculatorTestSolution\CalculatorApplication\obj\Debug\net8.0\CalculatorApplication.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\CalculatorTestSolution\CalculatorApplication\obj\Debug\net8.0\refint\CalculatorApplication.dll
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\CalculatorTestSolution\CalculatorApplication\obj\Debug\net8.0\CalculatorApplication.pdb
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\CalculatorTestSolution\CalculatorApplication\obj\Debug\net8.0\CalculatorApplication.genruntimeconfig.cache
+C:\Users\manra\OneDrive\Desktop\Capgemini\TESTING\CalculatorTestSolution\CalculatorApplication\obj\Debug\net8.0\ref\CalculatorApplication.dll
